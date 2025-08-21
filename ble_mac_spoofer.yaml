@@ -1,0 +1,4 @@
+ble_mac_spoofer:
+  schema:
+    mac_address: str
+
